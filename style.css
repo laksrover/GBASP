@@ -1,0 +1,25 @@
+aside {
+  float: left;
+}
+html {
+  font-family: sans-serif;
+}
+main p {
+  font-size:30px;
+}
+footer p {
+  text-align: right;
+}
+
+.author {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+h1 {
+  font-size: 90px;
+}
+h2 {
+  font-size:60px
+}
